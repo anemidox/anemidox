@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anemidox [Dhanuja Dissanaykke]
+- 👋 Hi, I’m @anemidox [Dhanuja Dissanayake]
 - 👀 I’m interested in AI and Machine Learning!
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
