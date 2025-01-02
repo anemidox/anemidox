@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
--  Fun fact: I am deeply fascinated by exploring the profound intersection of the human mind and Abhidhamma, blending ancient wisdom with modern perspectives!
+- ⚡ Fun fact: I am deeply fascinated by exploring the profound intersection of the human mind and Abhidhamma, blending ancient wisdom with modern perspectives!
 
 <!---
 anemidox/anemidox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
