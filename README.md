@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://dynaconf.com"><img src="https://github.com/dynaconf/dynaconf/raw/master/docs/img/logo_400.svg?sanitize=true" alt="Dynaconf" width="600px"></a>
-</p>
-
 - 👋 Hi, I’m @anemidox [Dhanuja Dissanayake]
 - 👀 I’m interested in AI, Machine Learning, and Mathematics!
 - 🌱 I’m currently learning Assembly (x86)
