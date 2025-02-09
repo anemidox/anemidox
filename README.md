@@ -1,5 +1,4 @@
-![Image](https://github.com/user-attachments/assets/b331f392-822b-4613-8ad7-1cac258ced09)
-
+![Image](https://github.com/user-attachments/assets/77903fca-d261-48b7-94f6-3f7225372de5)
 - 👋 Hi, I’m @anemidox [Dhanuja Dissanayake]
 - 👀 I’m interested in AI, Machine Learning, and Mathematics!
 - 🌱 I’m currently learning Assembly (x86)
