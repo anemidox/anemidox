@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 🎓 **Engineering Student** (Electronics & communication)
 - 🦀 Currently mastering **C++** and **Rust**
-- 📐 Passionate about **Mathematics** and **Particle Physics**
+- 📐 Passionate about **Mathematics** and **Philosophy**
 
 ### 🤝 Let's Collaborate
 I'm interested in working on:
