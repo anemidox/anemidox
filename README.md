@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Dhanuja Dissanayake
+#  Hi, I'm Dhanuja Dissanayake
 
 ### 🚀 About Me
-- 🎓 **Engineering Student** (Electronics & Telecommunication)
+- 🎓 **Engineering Student** (Electronics & communication)
 - 🦀 Currently mastering **C++** and **Rust**
 - 📐 Passionate about **Mathematics** and **Particle Physics**
 
