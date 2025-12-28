@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @anemidox [Dhanuja Dissanayake]
-- 👀 I’m interested in Electronics and tele-communication engineering and Mathematics!
-- 🌱 I’m currently learning C++ and Rust
-- 💞️ I’m looking to collaborate on Free and open source projects, particularly in the area of predictive modeling. I’m also interested in working on projects that explore the intersection of technology and philosophy, especially those that incorporate aspects of cognitive science or ancient wisdom.
-- 📫 How to reach me through GitHub (@anemidox), email at (dhanujadsanayke@gmail.com), or LinkedIn (https://www.linkedin.com/in/dhanujadissanayake). Feel free to reach out for collaboration or discussions related to Computer Science, mathematics, and philosophy!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm happy to be alone.
+# 👋 Hi, I'm Dhanuja Dissanayake
+
+### 🚀 About Me
+- 🎓 **Engineering Student** (Electronics & Telecommunication)
+- 🦀 Currently mastering **C++** and **Rust**
+- 📐 Passionate about **Mathematics** and **Particle Physics**
+
+### 🤝 Let's Collaborate
+I'm interested in working on:
+- **Predictive Modeling** projects.
+- Projects exploring **Technology, Philosophy, and Ancient Wisdom**.
+
+### 📫 Contact Me
+- **LinkedIn:** [dhanujadissanayake](https://www.linkedin.com/in/dhanujadissanayake)
+- **Email:** [dhanujadsanayke@gmail.com](mailto:dhanujadsanayke@gmail.com)
+- **GitHub:** [@anemidox](https://github.com/anemidox)
+
+---
+*⚡ Fun fact: I'm happy to be alone.*
