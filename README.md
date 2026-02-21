@@ -13,7 +13,6 @@ I'm interested in working on:
 ### 📫 Contact Me
 - **LinkedIn:** [dhanujadissanayake](https://www.linkedin.com/in/dhanujadissanayake)
 - **Email:** [dhanujadsanayke@gmail.com](mailto:dhanujadsanayke@gmail.com)
-- **GitHub:** [@anemidox](https://github.com/anemidox)
 
 ---
 *⚡ Fun fact: I'm happy to be alone.*
