@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 🎓 **Engineering Student** (Electronics & communication)
-- 🦀 Currently mastering **C++** and **Rust**
+- 🦀 Currently mastering **C++** and **C**
 - 📐 Passionate about **Mathematics** and **Philosophy**
 
 ### 🤝 Let's Collaborate
