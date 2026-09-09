@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dhanuja Dissanayake
 
 ### 🚀 About Me
-- 🎓 **Undergraduate** (Electronics & Communication)
+- 🎓 **Undergraduate** (Computer Science)
 - ⚙️ **Focus Areas:** High-Performance Computing (HPC), Systems Programming, and Formal Verification
 - 💻 **Currently mastering:** C, C++, and x86_64 Assembly
 - 📐 **Passionate about:** Mathematics, Mathematical Logic, and Binary Analysis
@@ -12,7 +12,7 @@
 
 ### 🤝 Let's Collaborate
 I'm always open to discussing and working on:
-- **Systems Engineering & Predictive Modeling** projects.
+- **Systems Programming & Predictive Modeling** projects.
 - **Formal Verification** and highly reliable systems.
 
 ### 📫 Contact Me
