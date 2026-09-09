@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 🎓 **Undergraduate** (Electronics & Communication)
-- ⚙️ **Focus Areas:** High-Performance Computing (HPC), Systems Engineering, and Formal Verification
+- ⚙️ **Focus Areas:** High-Performance Computing (HPC), Systems Programming, and Formal Verification
 - 💻 **Currently mastering:** C, C++, and x86_64 Assembly
 - 📐 **Passionate about:** Mathematics, Mathematical Logic, and Binary Analysis
 
